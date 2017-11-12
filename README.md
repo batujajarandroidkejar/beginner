@@ -1,4 +1,6 @@
-# Indonesia Android Kejar | Beginner - Study Group Batujajar
+![Indonesia Android Kejar](images/Logo%20Indonesia%20Android%20Kejar.jpg)
+
+# Indonesia Android Kejar - _Beginner_ | _Study Group_ Batujajar
 
 Selamat! Anda telah tergabung dalam program [Indonesia Android Kejar](http://indonesiaandroidkejar.id) (IAK) level _Beginner_ - _Study Group_ Batujajar, dengan fasilitator [Dimas Ahmad Eka Putra](https://www.facebook.com/dimassony) yang berlokasi di [SMA Negeri 1 Batujajar](http://www.sman1batujajar.sch.id).
 
@@ -20,12 +22,12 @@ Jika terdapat pertanyaan maupun kendala saat praktik, silakan diskusikan di grup
 - Materi
   - [Android Basics - User Interface](https://classroom.udacity.com/courses/ud834/)
 - Tutorial
-  - [Mengkoneksikan Android melalui USB]() (sangat disarankan)
-  - [Memasang Emulator Android]() (disarankan hanya jika memiliki RAM > 4GB)
+  - [Mengkoneksikan Android melalui USB](tutorial/Mengkoneksikan%20Android%20Melalui%20USB.md) (sangat disarankan)
+  - [Memasang Emulator Android](tutorial/Memasang%20Emulator%20Android.md) (disarankan hanya jika memiliki RAM > 4GB)
 - Praktik
-  - [Birthday Card App]()
+  - [Birthday Card App](praktik/Birthday%20Card%20App.md)
 - Tantangan
-  - [Birthday/Anniversary/Invitation Card App]()
+  - [Birthday Card App v2](tantangan/Birthday%20Card%20App%20v2.md)
 - Materi Tambahan
   - [Common Android View Cheat Sheet](https://drive.google.com/file/d/0B5XIkMkayHgRMVljUVIyZzNmQUU/view)
   - [Daftar Istilah Android](https://developers.google.com/android/for-all/vocab-words/?hl=en)
@@ -42,11 +44,11 @@ Jika terdapat pertanyaan maupun kendala saat praktik, silakan diskusikan di grup
 - Materi
   - [Android Basics - User Input](https://classroom.udacity.com/courses/ud836/)
 - Praktik
-  - [Milk Ordering App]()
-  - [Score Board App]()
+  - [Milk Ordering App](praktik/Milk%20Ordering%20App.md)
+  - [Score Board App](praktik/Score%20Board%20App.md)
 - Tantangan
-  - [Coffee Ordering App]()
-  - [Sports Score Board App]()
+  - [Coffee Ordering App](tantangan/Coffe%20Ordering%20App.md)
+  - [Score Board App v2](tantangan/Score%20Board%20App%20v2)
 - Materi Tambahan
   - [Cara Debug Aplikasi Android](https://developer.android.com/studio/debug/index.html)
 
@@ -62,4 +64,5 @@ _Final Project_ mempersilakan Anda untuk mengkombinasikan dan mempraktikkan semu
 ### Informasi lebih lanjut mengenai _Final Project_
 - [Penjelasan mengenai _Final Project_](https://docs.google.com/presentation/d/1SfeE0BGbJecD5ZE9Zo6HwhXZsgCpv5NDXCfMUCQl4Is/edit)
 - [Contoh-contoh _Final Project_](https://discussions.udacity.com/t/share-your-final-5-things-app-for-android-for-beginners/24930/)
-- [Cara membuat file .apk dari _project_ Android Studio]()
+- Tutorial
+  - [Membuat File .APK dari _Project_ Android Studio](tutorial/Membuat%20File%20APK%20dari%20Project%20Android%20Studio.md)
