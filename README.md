@@ -8,7 +8,7 @@ _Repository_ GitHub ini berisi ringkasan materi & instruksi untuk membantu mempe
 
 Materi yang diberikan di sini bertujuan untuk mempermudah Anda melakukan belajar mandiri saat mengikuti _study grup_ dan setelah mengikuti _study group_. Anda tetap harus menyelesaikan _course_ Udacity, mendatangi _study group_, dan mengumpulkan _final project_ sesuai dengan ketentuan yang berlaku.
 
-Jika terdapat pertanyaan maupun kendala saat praktik, silakan diskusikan di grup WhatsApp (khusus peserta), maupun grup [Google+ Indonesia Android Kejar]().
+Jika terdapat pertanyaan maupun kendala saat praktik, silakan diskusikan di grup WhatsApp (khusus peserta), maupun grup [Google+ Indonesia Android Kejar](https://plus.google.com/communities/115211318231647750246).
 
 ## Silabus
 
